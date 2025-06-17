@@ -6,13 +6,6 @@ This project analyzes the simultaneous impact of three global macroeconomic risk
 - 📉 **Economic Policy Uncertainty (EPU)**
 - 💸 **Financial Stress Index (FSI)**
 
-## 👥 Team Members
-| Name            | Student ID   | Contribution |
-|-----------------|-------------|--------------|
-| Le Phuc Chi     | K224141652  | 100%         |
-| Pham Minh Tuan  | K224141704  | 100%         |
-| Le Nam Tuyen    | K224141705  | 100%         |
-
 ## 🔍 Research Methodology
 ```r
 # Main regression model
